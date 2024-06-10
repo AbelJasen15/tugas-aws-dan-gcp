@@ -20,6 +20,5 @@ Tata cara pengumpulan tugas:
   mengsetting volume disk yang kita butuhkan, setelah kita memerlukan setting network dan policy security agar instence yang kita buat dapat ter-publish ke 
   internet. 
 
-Kegunaan: Melindungi aplikasi web dari ancaman umum seperti serangan SQL injection dan cross-site scripting (XSS).
 <center><img src="https://blob.cloudcomputing.id/images/aws-akan-investasi-di-indonesia-perkuat-ekosistem-startup/landscape/aws-min-800-540-min.jpg" />
 </center>
