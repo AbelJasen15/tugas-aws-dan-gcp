@@ -46,4 +46,4 @@ Kegunaan: Layanan pemantauan dan logging untuk melacak performa dan kesehatan ap
 
 * AWS WAF (Web Application Firewall)
 Kegunaan: Melindungi aplikasi web dari ancaman umum seperti serangan SQL injection dan cross-site scripting (XSS).
-
+img src="https://blob.cloudcomputing.id/images/aws-akan-investasi-di-indonesia-perkuat-ekosistem-startup/landscape/aws-min-800-540-min.jpg" />
