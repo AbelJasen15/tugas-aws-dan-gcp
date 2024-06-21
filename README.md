@@ -1,3 +1,4 @@
+```
 <h1> Tugas: </h1>
 1. Setup vcc untuk buat akun AWS dan GCP
 1.1 Bisa di Bank Jago atau Jenius
@@ -19,6 +20,6 @@ Tata cara pengumpulan tugas:
   pertama membuat ec2 untuk membuat suatu OS yang berisi dengan segala kebutuhan web service yang di butuhkan, dan lalu kita membutuhkan Elastis Block System untuk
   mengsetting volume disk yang kita butuhkan, setelah kita memerlukan setting network dan policy security agar instence yang kita buat dapat ter-publish ke 
   internet. 
-
+```
 <center><img src="https://blob.cloudcomputing.id/images/aws-akan-investasi-di-indonesia-perkuat-ekosistem-startup/landscape/aws-min-800-540-min.jpg" />
 </center>
